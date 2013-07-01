@@ -3,10 +3,12 @@ unifan
 
 USB Fan + Arduino + Unity = Fun :)
 
+![unifan.jpg](Document/unifan.jpg)
+
 Which motor driver did you use?
 -------------------------------
 
-This one purchased at Switch Science.
+This one I purchased at Switch Science.
 
 http://www.switch-science.com/catalog/1064/
 
@@ -22,4 +24,3 @@ modify devicePath in MotorController.js.
 ### Windows
 
 Sorry, not implemented yet.
-
